@@ -1,0 +1,21 @@
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: beige;
+
+}
+button{
+    color: yellowgreen;
+}
+.part{
+    height: 500px;
+    width: 45%;
+    margin: 1%;
+    padding: 20px;
+    border: none;
+    float: left;
+
+}
+.part img{
+    width: 100%;
+}
