@@ -1,13 +1,11 @@
 
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: beige;
-
 }
 button{
     color: yellowgreen;
 }
-.part{
+.part0{
     height: 500px;
     width: 45%;
     margin: 1%;
@@ -16,6 +14,52 @@ button{
     float: left;
 
 }
-.part img{
+.part0 img{
     width: 100%;
+}
+.part1{
+    height: 500px;
+    width: 45%;
+    margin: 1%;
+    padding: 20px;
+    border: none;
+    float: right;
+}
+.part1 img{
+    width: 100%;
+}
+.part2{
+    height: 300px;
+    width: 40%;
+    margin: 2%;
+    padding: 20px;
+    float: left;
+    border-style: outset ;
+    border-width: 10px;
+    border-color: antiquewhite;
+}
+#sec0{
+    background-image: url('top-banner.png');
+    background-position: left top;
+}
+#sec1{
+    background-image: url('dream-bg.png');
+    background-position: right;
+}
+#sec0{
+    background-image: url('exp-bg.png');
+    background-position: left;
+}
+.part2h2{
+    color: coral;
+}
+.buttons{
+    color: brown;
+    background-color: rgba(86, 153, 122, 0.493);
+    height: 30px;
+    width: 100px;
+    border: 1px solid gold;
+    font-family: monospace;
+    font-size: large;
+    font-weight: 600;
 }
