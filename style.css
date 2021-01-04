@@ -1,9 +1,12 @@
 
 body{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia;
 }
-button{
-    color: yellowgreen;
+#sayem{color: gold;}
+.first_heading{
+    color: grey;
+    font-size: xx-large;
+    font-weight: bolder;
 }
 .part0{
     height: 500px;
@@ -28,6 +31,10 @@ button{
 .part1 img{
     width: 100%;
 }
+.part1 h1{
+    font-size: xx-large;
+    font-weight: 900;
+}
 .part2{
     height: 300px;
     width: 40%;
@@ -37,6 +44,10 @@ button{
     border-style: outset ;
     border-width: 10px;
     border-color: antiquewhite;
+}
+.part2 h1{
+    font-size: xx-large;
+    font-weight: 900;
 }
 #sec0{
     background-image: url('top-banner.png');
